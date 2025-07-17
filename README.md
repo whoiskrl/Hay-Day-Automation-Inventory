@@ -14,7 +14,7 @@ A Python script designed to automate certain tasks within the Hay Day Android ga
 
 To run this script, you'll need:
 
-* An **Android emulator** (e.g., NoxPlayer, BlueStacks, Android Studio Emulator) or a physical Android device.
+* An **Android emulator** (e.g., NoxPlayer, BlueStacks, Android Studio Emulator - Resolution must be 640x480 120dpi) or a physical Android device.
 * **ADB (Android Debug Bridge)** installed and configured on your system.
 * **Root access** on your Android device/emulator is required for `shared_prefs` manipulation.
 * **Python 3.x** installed.
