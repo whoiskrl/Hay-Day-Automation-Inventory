@@ -20,7 +20,7 @@ To run this script, you'll need:
 * **Python 3.x** installed.
 * **`uiautomator2`** service installed on your Android device (the `u2.connect()` function usually handles this, but manual installation might be needed if issues arise).
 * **Hay Day bot farm** barn must be in default place , where it was placed originally by game , if you don't know where it is located, check the example_farm.png in repository.
-* ** Hay Day game_config.csv** [edit those if not yet - MaxZoom,150,, , DefaultZoom,25,, , MinZoom,25,, and extraMargin -600] , otherwise bot won't recognize the position of barn.
+* **Hay Day game_config.csv** [edit those if not yet - MaxZoom,150,, , DefaultZoom,25,, , MinZoom,25,, and extraMargin -600] , otherwise bot won't recognize the position of barn.
 
 ## Installation ⚙️
 
