@@ -26,7 +26,7 @@ To run this script, you'll need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/HayDay-Farm-Automation.git](https://github.com/YourUsername/HayDay-Farm-Automation.git)
+    git clone [https://github.com/whoiskrl/Hay-Day-Automation-Inventory.git](https://github.com/whoiskrl/Hay-Day-Automation-Inventory.git)
     cd HayDay-Farm-Automation
     ```
 
