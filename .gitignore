@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Screenshots and temporary files
+*.png
+*.jpg
+screen.png
+*_cropped.png
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+.venv/
+env/
+venv/
